@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7IcbYvfGlRXWC21C2fLAb4YIiudkcv29WA2WUA7Atw5DyNBe/Ikd/LvNIxaHKrre7uO7iu3UBw+VbQC9PqmWiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\krill\\Downloads\\Skol Saker\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krill\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
