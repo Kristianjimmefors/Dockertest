@@ -22,5 +22,5 @@ jobs:
         push: true
         context: ${{env.working-directory}}
         tags: |
-          ghcr.io/kristianjimmefors/dockertest:latest
-          ghcr.io/kristianjimmefors/dockertest:${{ github.run_number }}
+          ghcr.io/Kristianjimmefors/Dockertest:latest
+          ghcr.io/Kristianjimmefors/Dockertest:${{ github.run_number }}
