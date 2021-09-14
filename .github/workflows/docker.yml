@@ -23,4 +23,4 @@ jobs:
         context: ${ {env.working-directory} }/WebApplication1
         tags: |
           ghcr.io/kristianjimmefors/dockertest:latest
-          ghcr.io/kristianjimmefors/dockertest:${ { github.run_number } }
+          ghcr.io/kristianjimmefors/dockertest:${{ github.run_number }}
